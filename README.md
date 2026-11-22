@@ -18,7 +18,7 @@ my configurations, troubleshooting, and lessons learned along the way.
 
 ## 📂 Featured Projects
 
-### 🌐 [Cisco Network Game Development Studio](https://github.com/SoulgrimDev/Cisco-Project)
+### 🌐 [Packet Tracer Project: Game Development Studio](https://github.com/SoulgrimDev/Cisco-Project)
 
 Designed a network for a fictional four-floor indie game development
 studio using Cisco Packet Tracer.
